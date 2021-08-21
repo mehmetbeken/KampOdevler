@@ -6,7 +6,7 @@ namespace KampOdevler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
